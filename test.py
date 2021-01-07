@@ -1,0 +1,1 @@
+model = keras.Sequential([keras.layers.Dense(units=1, input+_shape[1])])
